@@ -2,9 +2,13 @@
 
 ![Project Euler](https://img.shields.io/badge/Project-Euler-orange?style=for-the-badge)
 
-These are my solutions to the problems proposed at ![Project Euler](https://projecteuler.net/about) 
+These are my solutions to the problems proposed at [Project Euler](https://projecteuler.net/about) 
 
-## Progress
+I try to always provide functional, explainable and commented solutions 
+
+My solutions are not necessarily the most optimized in space and time complexity, but aims to internalize the mathematics and programming behind the question 
+
+Feel free to reach out if you have any questions or if you find any errors in my solutions!## Progress
 - [Problems 0-50](#problems-0-50)
 
 ---
@@ -17,4 +21,6 @@ These are my solutions to the problems proposed at ![Project Euler](https://proj
 | 2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | [View Notebook](./Problems%200-50/Problem%202%20Even%20Fibonacci%20Numbers.ipynb) |
 | 3 | [Largest Prime Factor](https://projecteuler.net/problem=3) | [View Notebook](./Problems%200-50/Problem%203%20Largest%20Prime%20Factor.ipynb) |
 | 4 | [Largest Palindrome Product](https://projecteuler.net/problem=4) | [View Notebook](./Problems%200-50/Problem%204%20Largest%20Palindrome%20Product.ipynb) |
+| 5 | [Smallest Integer](https://projecteuler.net/problem=5) | [View Notebook](./Problems%200-50/Problem%205%20Smallest%20Integer.ipynb) |
+| 6 | [Sum Square Difference](https://projecteuler.net/problem=6) | [View Notebook](./Problems%200-50/Problem%206%20Sum%20Square%20Difference.ipynb) |
 
