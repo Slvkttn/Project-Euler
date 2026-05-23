@@ -15,9 +15,10 @@ def generate_readme():
     content = f"# {REPO_NAME}\n\n"
     content += "![Project Euler](https://img.shields.io/badge/Project-Euler-orange?style=for-the-badge)\n\n"
     content += "These are my solutions to the problems proposed at [Project Euler](https://projecteuler.net/about) \n\n"
-    content += "I try to always provide functional, explainable and commented solutions \n\n"
-    content += "My solutions are not necessarily the most optimized in space and time complexity, but aims to internalize the mathematics and programming behind the question \n\n"
-    content += "Feel free to reach out if you have any questions or if you find any errors in my solutions!"
+    content += "I try to always provide functional, explainable and commented solutions to each problem. \n\n"
+    content += "My solutions are not necessarily the most optimized in space and time complexity, but aims to internalize the mathematics and programming behind the question. \n\n"
+    content += "My hope is that my proposed solutions will help readers understand why the solution work, rather than just a copy-paste solution. \n\n"
+    content += "Feel free to reach out if you have any questions or if you find any errors in my solutions!\n"
 
     # Table of Contents
     content += "## Progress\n"
