@@ -27,4 +27,5 @@ Feel free to reach out if you have any questions or if you find any errors in my
 | 5 | [Smallest Integer](https://projecteuler.net/problem=5) | [View Notebook](./Problems%200-50/Problem%205%20Smallest%20Integer.ipynb) |
 | 6 | [Sum Square Difference](https://projecteuler.net/problem=6) | [View Notebook](./Problems%200-50/Problem%206%20Sum%20Square%20Difference.ipynb) |
 | 7 | [1000st Prime](https://projecteuler.net/problem=7) | [View Notebook](./Problems%200-50/Problem%207%201000st%20Prime.ipynb) |
+| 8 | [Largest Product in a Series](https://projecteuler.net/problem=8) | [View Notebook](./Problems%200-50/Problem%208%20Largest%20Product%20in%20a%20Series.ipynb) |
 
